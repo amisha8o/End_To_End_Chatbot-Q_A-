@@ -99,11 +99,9 @@ LangChain-TinyLlama-App/
 # ⚙️ Installation
 
 ## 1️⃣ Clone the Repository
+git clone https://github.com/amisha8o/End_To_End_Chatbot-Q_A-.git
+cd End_To_End_Chatbot-Q_A-
 
-```bash
-git clone https://github.com/amisha8o/langchain-tinyllama-streamlit.git
-cd langchain-tinyllama-streamlit
-```
 
 ## 2️⃣ Create Virtual Environment
 
